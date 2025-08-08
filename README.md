@@ -1,4 +1,4 @@
-### Um pouco sobre mim :)
+### Um pouco sobre mim 
 
 Meu nome é Gustavo, tenho 20 anos e sempre fui apaixonado por tecnologia desde pequeno. Sou um entusiasta e curioso da área — talvez codar nem sempre seja tão calmo e prazeroso, mas torna o futuro e possibilidades inimagináveis muito mais palpáveis. Vale a pena. Curto bastante descobrir e aprender coisas novas sobre tudo, praticar esportes e jogar. E como dev, cada desafio é bem-vindo. Tô sempre codando umas coisas aleatórias e legais por aí...
 
